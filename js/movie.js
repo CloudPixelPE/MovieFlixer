@@ -13,7 +13,7 @@ function getMovie() {
     .get(
       "https://api.themoviedb.org/3/movie/" +
         movieId +
-        "?api_key=ca5d667528ca51e527d9e4f7830d97d2&include_adult=false"
+        "?api_key=ca5d667528ca51e527d9e4f7830d97d2&include_adult=false&language=es-ES"
     )
     .then(response => {
       console.log(response);
