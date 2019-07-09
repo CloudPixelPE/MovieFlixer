@@ -1,8 +1,8 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![MovieHouse Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-# StreamIt
+# MovieHouse
 
-StreamIt is a modern web application that allows you to search, view and stream movies and television shows found on the internet.
+MovieHouse is a modern web application that allows you to search, view and stream movies and television shows found on the internet.
 
 ### Home Page
 
