@@ -1,6 +1,6 @@
 
 $( document ).ready(function() {
-  axios.get('https://api.themoviedb.org/3/discover/movie?api_key=ca5d667528ca51e527d9e4f7830d97d2&language=en-US&sort_by=popularity.desc&include_adult=false')
+  axios.get('https://api.themoviedb.org/3/discover/movie?api_key=ca5d667528ca51e527d9e4f7830d97d2&language=es-ES&sort_by=popularity.desc&include_adult=false')
   .then((response) =>{
     let movies = response.data.results;
     console.log(response);
